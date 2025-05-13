@@ -2,4 +2,4 @@
 
 Nadine Apresto
 
-[Link to Site](https://nadineapresto.github.io/Lab6_Starter/index.html)
+[Link to Site](https://nadineapresto.github.io/Lab6_Starter/)
